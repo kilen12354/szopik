@@ -1,0 +1,280 @@
+Uri: https://fortniteshopping.com/
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\index.htm
+Content Type: text/html
+
+Uri: https://fortniteshopping.com/fonts/ionicons/stylesheet.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\stylesheet.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/fonts/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/css/page-loader.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\css\page-loader.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/js/swiper/swiper-bundle.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\swiper\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/js/vegas/vegas.min.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/css/main.css
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\css\main.css
+Content Type: text/css
+
+Uri: https://fortniteshopping.com/index.html
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\index.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/d7XPZDWFgA
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\invite\d7XPZDWFgA.html
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=UU238XWBG9EU4
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=3VYAB4SU4ENFG
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-1.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=X467MKHUA47NJ
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-2.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=L4M535WQDTLKS
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-3.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=33V3QPTRBRVTW
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-4.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=8WR3AF7TCJTY2
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-5.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=8TCBX5DG6ENUL
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-6.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=32P7TWXVJQ6AY
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-7.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=992JG6JJTHHDY
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-8.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=RSMG8456NV3PJ
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-9.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=MRF3KJHS3EX2A
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-10.htm
+Content Type: text/html
+
+Uri: https://www.paypal.com/donate/?hosted_button_id=QDJ2A748V8UFE
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\donate\index-11.htm
+Content Type: text/html
+
+Uri: http://highhay.com/
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\index-1.htm
+Content Type: text/html
+
+Uri: https://fortniteshopping.com/js/vendor/modernizr-2.7.1.min.html
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\vendor\modernizr-2.7.1.min.html
+Content Type: text/html
+
+Uri: https://fortniteshopping.com/img/logo.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\img\logo.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/dc.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\dc.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/z09EAb.jpg
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\z09EAb.jpg
+Content Type: image/jpeg
+
+Uri: https://fortniteshopping.com/ok.gif
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\ok.gif
+Content Type: image/gif
+
+Uri: https://fortniteshopping.com/trusted.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\trusted.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/delivery.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\delivery.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/support.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\support.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/2.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\2.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/1.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\1.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/3.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\3.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/6.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\6.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/7.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\7.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/8.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\8.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/5.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\5.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/4.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\4.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/1dolce.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\1dolce.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/2dolce.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\2dolce.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/3dolce.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\3dolce.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/img/solo.jpg
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\img\solo.jpg
+Content Type: image/jpeg
+
+Uri: https://fortniteshopping.com/img/nohyper.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\img\nohyper.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/img/riley.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\img\riley.png
+Content Type: image/png
+
+Uri: https://fortniteshopping.com/img/lmaoxd.jpg
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\img\lmaoxd.jpg
+Content Type: image/jpeg
+
+Uri: https://fortniteshopping.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/rellax/rellax-custom.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\rellax\rellax-custom.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/axios/axios.min.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\axios\axios.min.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/scroll-slider.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\scroll-slider.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/section-scroll.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\section-scroll.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/scroll-anim.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\scroll-anim.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/main.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/js/init-form.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\init-form.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://fortniteshopping.com/fonts/ionicons/ioniconsde33.eot?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\ioniconsde33.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fortniteshopping.com/fonts/ionicons/ioniconsde33.woff2?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\ioniconsde33.woff2
+Content Type: 
+
+Uri: https://fortniteshopping.com/fonts/ionicons/ioniconsde33.woff?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\ioniconsde33.woff
+Content Type: application/x-font-woff
+
+Uri: https://fortniteshopping.com/fonts/ionicons/ioniconsde33.ttf?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\ioniconsde33.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://fortniteshopping.com/fonts/ionicons/ioniconsde33.svg?v=4.5.10-1
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\ionicons\ioniconsde33.svg
+Content Type: image/svg+xml
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfont3e6e.woff2
+Content Type: 
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/x-font-woff
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfont3e6e.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://fortniteshopping.com/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://fortniteshopping.com/js/vegas/overlays/02.png
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\js\vegas\overlays\02.png
+Content Type: image/png
+
+Uri: https://infinityfree.net/errors/404/
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\errors\404\index.htm
+Content Type: text/html
+
+Uri: https://infinityfree.net/errors/403/
+File Name: C:\Downloaded Web Sites\fortniteshopping.com\errors\403\index.htm
+Content Type: text/html
+
