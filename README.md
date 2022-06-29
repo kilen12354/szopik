@@ -1,2 +1,0 @@
-# szopik
-szopik
